@@ -1,0 +1,1318 @@
+{
+  "instrument": "bayan",
+  "layout_name": "B-Griff 107 E2-G7",
+  "right_manual": [
+    {
+      "id": "RH_R1_M40",
+      "manual": "right",
+      "midi_notes": [
+        40
+      ],
+      "label": "E2",
+      "row": 1,
+      "index": 0,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R1_M43",
+      "manual": "right",
+      "midi_notes": [
+        43
+      ],
+      "label": "G2",
+      "row": 1,
+      "index": 1,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R1_M46",
+      "manual": "right",
+      "midi_notes": [
+        46
+      ],
+      "label": "A#2",
+      "row": 1,
+      "index": 2,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R1_M49",
+      "manual": "right",
+      "midi_notes": [
+        49
+      ],
+      "label": "C#3",
+      "row": 1,
+      "index": 3,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R1_M52",
+      "manual": "right",
+      "midi_notes": [
+        52
+      ],
+      "label": "E3",
+      "row": 1,
+      "index": 4,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R1_M55",
+      "manual": "right",
+      "midi_notes": [
+        55
+      ],
+      "label": "G3",
+      "row": 1,
+      "index": 5,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R1_M58",
+      "manual": "right",
+      "midi_notes": [
+        58
+      ],
+      "label": "A#3",
+      "row": 1,
+      "index": 6,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R1_M61",
+      "manual": "right",
+      "midi_notes": [
+        61
+      ],
+      "label": "C#4",
+      "row": 1,
+      "index": 7,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R1_M64",
+      "manual": "right",
+      "midi_notes": [
+        64
+      ],
+      "label": "E4",
+      "row": 1,
+      "index": 8,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R1_M67",
+      "manual": "right",
+      "midi_notes": [
+        67
+      ],
+      "label": "G4",
+      "row": 1,
+      "index": 9,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R1_M70",
+      "manual": "right",
+      "midi_notes": [
+        70
+      ],
+      "label": "A#4",
+      "row": 1,
+      "index": 10,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R1_M73",
+      "manual": "right",
+      "midi_notes": [
+        73
+      ],
+      "label": "C#5",
+      "row": 1,
+      "index": 11,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R1_M76",
+      "manual": "right",
+      "midi_notes": [
+        76
+      ],
+      "label": "E5",
+      "row": 1,
+      "index": 12,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R1_M79",
+      "manual": "right",
+      "midi_notes": [
+        79
+      ],
+      "label": "G5",
+      "row": 1,
+      "index": 13,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R1_M82",
+      "manual": "right",
+      "midi_notes": [
+        82
+      ],
+      "label": "A#5",
+      "row": 1,
+      "index": 14,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R1_M85",
+      "manual": "right",
+      "midi_notes": [
+        85
+      ],
+      "label": "C#6",
+      "row": 1,
+      "index": 15,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R1_M88",
+      "manual": "right",
+      "midi_notes": [
+        88
+      ],
+      "label": "E6",
+      "row": 1,
+      "index": 16,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R1_M91",
+      "manual": "right",
+      "midi_notes": [
+        91
+      ],
+      "label": "G6",
+      "row": 1,
+      "index": 17,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R1_M94",
+      "manual": "right",
+      "midi_notes": [
+        94
+      ],
+      "label": "A#6",
+      "row": 1,
+      "index": 18,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R1_M97",
+      "manual": "right",
+      "midi_notes": [
+        97
+      ],
+      "label": "C#7",
+      "row": 1,
+      "index": 19,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R1_M100",
+      "manual": "right",
+      "midi_notes": [
+        100
+      ],
+      "label": "E7",
+      "row": 1,
+      "index": 20,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R1_M103",
+      "manual": "right",
+      "midi_notes": [
+        103
+      ],
+      "label": "G7",
+      "row": 1,
+      "index": 21,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R2_M41",
+      "manual": "right",
+      "midi_notes": [
+        41
+      ],
+      "label": "F2",
+      "row": 2,
+      "index": 0,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R2_M44",
+      "manual": "right",
+      "midi_notes": [
+        44
+      ],
+      "label": "G#2",
+      "row": 2,
+      "index": 1,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R2_M47",
+      "manual": "right",
+      "midi_notes": [
+        47
+      ],
+      "label": "B2",
+      "row": 2,
+      "index": 2,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R2_M50",
+      "manual": "right",
+      "midi_notes": [
+        50
+      ],
+      "label": "D3",
+      "row": 2,
+      "index": 3,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R2_M53",
+      "manual": "right",
+      "midi_notes": [
+        53
+      ],
+      "label": "F3",
+      "row": 2,
+      "index": 4,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R2_M56",
+      "manual": "right",
+      "midi_notes": [
+        56
+      ],
+      "label": "G#3",
+      "row": 2,
+      "index": 5,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R2_M59",
+      "manual": "right",
+      "midi_notes": [
+        59
+      ],
+      "label": "B3",
+      "row": 2,
+      "index": 6,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R2_M62",
+      "manual": "right",
+      "midi_notes": [
+        62
+      ],
+      "label": "D4",
+      "row": 2,
+      "index": 7,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R2_M65",
+      "manual": "right",
+      "midi_notes": [
+        65
+      ],
+      "label": "F4",
+      "row": 2,
+      "index": 8,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R2_M68",
+      "manual": "right",
+      "midi_notes": [
+        68
+      ],
+      "label": "G#4",
+      "row": 2,
+      "index": 9,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R2_M71",
+      "manual": "right",
+      "midi_notes": [
+        71
+      ],
+      "label": "B4",
+      "row": 2,
+      "index": 10,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R2_M74",
+      "manual": "right",
+      "midi_notes": [
+        74
+      ],
+      "label": "D5",
+      "row": 2,
+      "index": 11,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R2_M77",
+      "manual": "right",
+      "midi_notes": [
+        77
+      ],
+      "label": "F5",
+      "row": 2,
+      "index": 12,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R2_M80",
+      "manual": "right",
+      "midi_notes": [
+        80
+      ],
+      "label": "G#5",
+      "row": 2,
+      "index": 13,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R2_M83",
+      "manual": "right",
+      "midi_notes": [
+        83
+      ],
+      "label": "B5",
+      "row": 2,
+      "index": 14,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R2_M86",
+      "manual": "right",
+      "midi_notes": [
+        86
+      ],
+      "label": "D6",
+      "row": 2,
+      "index": 15,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R2_M89",
+      "manual": "right",
+      "midi_notes": [
+        89
+      ],
+      "label": "F6",
+      "row": 2,
+      "index": 16,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R2_M92",
+      "manual": "right",
+      "midi_notes": [
+        92
+      ],
+      "label": "G#6",
+      "row": 2,
+      "index": 17,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R2_M95",
+      "manual": "right",
+      "midi_notes": [
+        95
+      ],
+      "label": "B6",
+      "row": 2,
+      "index": 18,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R2_M98",
+      "manual": "right",
+      "midi_notes": [
+        98
+      ],
+      "label": "D7",
+      "row": 2,
+      "index": 19,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R2_M101",
+      "manual": "right",
+      "midi_notes": [
+        101
+      ],
+      "label": "F7",
+      "row": 2,
+      "index": 20,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R3_M42",
+      "manual": "right",
+      "midi_notes": [
+        42
+      ],
+      "label": "F#2",
+      "row": 3,
+      "index": 0,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R3_M45",
+      "manual": "right",
+      "midi_notes": [
+        45
+      ],
+      "label": "A2",
+      "row": 3,
+      "index": 1,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R3_M48",
+      "manual": "right",
+      "midi_notes": [
+        48
+      ],
+      "label": "C3",
+      "row": 3,
+      "index": 2,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R3_M51",
+      "manual": "right",
+      "midi_notes": [
+        51
+      ],
+      "label": "D#3",
+      "row": 3,
+      "index": 3,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R3_M54",
+      "manual": "right",
+      "midi_notes": [
+        54
+      ],
+      "label": "F#3",
+      "row": 3,
+      "index": 4,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R3_M57",
+      "manual": "right",
+      "midi_notes": [
+        57
+      ],
+      "label": "A3",
+      "row": 3,
+      "index": 5,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R3_M60",
+      "manual": "right",
+      "midi_notes": [
+        60
+      ],
+      "label": "C4",
+      "row": 3,
+      "index": 6,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R3_M63",
+      "manual": "right",
+      "midi_notes": [
+        63
+      ],
+      "label": "D#4",
+      "row": 3,
+      "index": 7,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R3_M66",
+      "manual": "right",
+      "midi_notes": [
+        66
+      ],
+      "label": "F#4",
+      "row": 3,
+      "index": 8,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R3_M69",
+      "manual": "right",
+      "midi_notes": [
+        69
+      ],
+      "label": "A4",
+      "row": 3,
+      "index": 9,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R3_M72",
+      "manual": "right",
+      "midi_notes": [
+        72
+      ],
+      "label": "C5",
+      "row": 3,
+      "index": 10,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R3_M75",
+      "manual": "right",
+      "midi_notes": [
+        75
+      ],
+      "label": "D#5",
+      "row": 3,
+      "index": 11,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R3_M78",
+      "manual": "right",
+      "midi_notes": [
+        78
+      ],
+      "label": "F#5",
+      "row": 3,
+      "index": 12,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R3_M81",
+      "manual": "right",
+      "midi_notes": [
+        81
+      ],
+      "label": "A5",
+      "row": 3,
+      "index": 13,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R3_M84",
+      "manual": "right",
+      "midi_notes": [
+        84
+      ],
+      "label": "C6",
+      "row": 3,
+      "index": 14,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R3_M87",
+      "manual": "right",
+      "midi_notes": [
+        87
+      ],
+      "label": "D#6",
+      "row": 3,
+      "index": 15,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R3_M90",
+      "manual": "right",
+      "midi_notes": [
+        90
+      ],
+      "label": "F#6",
+      "row": 3,
+      "index": 16,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R3_M93",
+      "manual": "right",
+      "midi_notes": [
+        93
+      ],
+      "label": "A6",
+      "row": 3,
+      "index": 17,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R3_M96",
+      "manual": "right",
+      "midi_notes": [
+        96
+      ],
+      "label": "C7",
+      "row": 3,
+      "index": 18,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R3_M99",
+      "manual": "right",
+      "midi_notes": [
+        99
+      ],
+      "label": "D#7",
+      "row": 3,
+      "index": 19,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R3_M102",
+      "manual": "right",
+      "midi_notes": [
+        102
+      ],
+      "label": "F#7",
+      "row": 3,
+      "index": 20,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R4_M40",
+      "manual": "right",
+      "midi_notes": [
+        40
+      ],
+      "label": "E2",
+      "row": 4,
+      "index": 0,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R4_M43",
+      "manual": "right",
+      "midi_notes": [
+        43
+      ],
+      "label": "G2",
+      "row": 4,
+      "index": 1,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R4_M46",
+      "manual": "right",
+      "midi_notes": [
+        46
+      ],
+      "label": "A#2",
+      "row": 4,
+      "index": 2,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R4_M49",
+      "manual": "right",
+      "midi_notes": [
+        49
+      ],
+      "label": "C#3",
+      "row": 4,
+      "index": 3,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R4_M52",
+      "manual": "right",
+      "midi_notes": [
+        52
+      ],
+      "label": "E3",
+      "row": 4,
+      "index": 4,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R4_M55",
+      "manual": "right",
+      "midi_notes": [
+        55
+      ],
+      "label": "G3",
+      "row": 4,
+      "index": 5,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R4_M58",
+      "manual": "right",
+      "midi_notes": [
+        58
+      ],
+      "label": "A#3",
+      "row": 4,
+      "index": 6,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R4_M61",
+      "manual": "right",
+      "midi_notes": [
+        61
+      ],
+      "label": "C#4",
+      "row": 4,
+      "index": 7,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R4_M64",
+      "manual": "right",
+      "midi_notes": [
+        64
+      ],
+      "label": "E4",
+      "row": 4,
+      "index": 8,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R4_M67",
+      "manual": "right",
+      "midi_notes": [
+        67
+      ],
+      "label": "G4",
+      "row": 4,
+      "index": 9,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R4_M70",
+      "manual": "right",
+      "midi_notes": [
+        70
+      ],
+      "label": "A#4",
+      "row": 4,
+      "index": 10,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R4_M73",
+      "manual": "right",
+      "midi_notes": [
+        73
+      ],
+      "label": "C#5",
+      "row": 4,
+      "index": 11,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R4_M76",
+      "manual": "right",
+      "midi_notes": [
+        76
+      ],
+      "label": "E5",
+      "row": 4,
+      "index": 12,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R4_M79",
+      "manual": "right",
+      "midi_notes": [
+        79
+      ],
+      "label": "G5",
+      "row": 4,
+      "index": 13,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R4_M82",
+      "manual": "right",
+      "midi_notes": [
+        82
+      ],
+      "label": "A#5",
+      "row": 4,
+      "index": 14,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R4_M85",
+      "manual": "right",
+      "midi_notes": [
+        85
+      ],
+      "label": "C#6",
+      "row": 4,
+      "index": 15,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R4_M88",
+      "manual": "right",
+      "midi_notes": [
+        88
+      ],
+      "label": "E6",
+      "row": 4,
+      "index": 16,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R4_M91",
+      "manual": "right",
+      "midi_notes": [
+        91
+      ],
+      "label": "G6",
+      "row": 4,
+      "index": 17,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R4_M94",
+      "manual": "right",
+      "midi_notes": [
+        94
+      ],
+      "label": "A#6",
+      "row": 4,
+      "index": 18,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R4_M97",
+      "manual": "right",
+      "midi_notes": [
+        97
+      ],
+      "label": "C#7",
+      "row": 4,
+      "index": 19,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R4_M100",
+      "manual": "right",
+      "midi_notes": [
+        100
+      ],
+      "label": "E7",
+      "row": 4,
+      "index": 20,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R4_M103",
+      "manual": "right",
+      "midi_notes": [
+        103
+      ],
+      "label": "G7",
+      "row": 4,
+      "index": 21,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R5_M41",
+      "manual": "right",
+      "midi_notes": [
+        41
+      ],
+      "label": "F2",
+      "row": 5,
+      "index": 0,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R5_M44",
+      "manual": "right",
+      "midi_notes": [
+        44
+      ],
+      "label": "G#2",
+      "row": 5,
+      "index": 1,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R5_M47",
+      "manual": "right",
+      "midi_notes": [
+        47
+      ],
+      "label": "B2",
+      "row": 5,
+      "index": 2,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R5_M50",
+      "manual": "right",
+      "midi_notes": [
+        50
+      ],
+      "label": "D3",
+      "row": 5,
+      "index": 3,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R5_M53",
+      "manual": "right",
+      "midi_notes": [
+        53
+      ],
+      "label": "F3",
+      "row": 5,
+      "index": 4,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R5_M56",
+      "manual": "right",
+      "midi_notes": [
+        56
+      ],
+      "label": "G#3",
+      "row": 5,
+      "index": 5,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R5_M59",
+      "manual": "right",
+      "midi_notes": [
+        59
+      ],
+      "label": "B3",
+      "row": 5,
+      "index": 6,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R5_M62",
+      "manual": "right",
+      "midi_notes": [
+        62
+      ],
+      "label": "D4",
+      "row": 5,
+      "index": 7,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R5_M65",
+      "manual": "right",
+      "midi_notes": [
+        65
+      ],
+      "label": "F4",
+      "row": 5,
+      "index": 8,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R5_M68",
+      "manual": "right",
+      "midi_notes": [
+        68
+      ],
+      "label": "G#4",
+      "row": 5,
+      "index": 9,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R5_M71",
+      "manual": "right",
+      "midi_notes": [
+        71
+      ],
+      "label": "B4",
+      "row": 5,
+      "index": 10,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R5_M74",
+      "manual": "right",
+      "midi_notes": [
+        74
+      ],
+      "label": "D5",
+      "row": 5,
+      "index": 11,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R5_M77",
+      "manual": "right",
+      "midi_notes": [
+        77
+      ],
+      "label": "F5",
+      "row": 5,
+      "index": 12,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R5_M80",
+      "manual": "right",
+      "midi_notes": [
+        80
+      ],
+      "label": "G#5",
+      "row": 5,
+      "index": 13,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R5_M83",
+      "manual": "right",
+      "midi_notes": [
+        83
+      ],
+      "label": "B5",
+      "row": 5,
+      "index": 14,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R5_M86",
+      "manual": "right",
+      "midi_notes": [
+        86
+      ],
+      "label": "D6",
+      "row": 5,
+      "index": 15,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R5_M89",
+      "manual": "right",
+      "midi_notes": [
+        89
+      ],
+      "label": "F6",
+      "row": 5,
+      "index": 16,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R5_M92",
+      "manual": "right",
+      "midi_notes": [
+        92
+      ],
+      "label": "G#6",
+      "row": 5,
+      "index": 17,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R5_M95",
+      "manual": "right",
+      "midi_notes": [
+        95
+      ],
+      "label": "B6",
+      "row": 5,
+      "index": 18,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R5_M98",
+      "manual": "right",
+      "midi_notes": [
+        98
+      ],
+      "label": "D7",
+      "row": 5,
+      "index": 19,
+      "computer_key": null,
+      "button_type": "note"
+    },
+    {
+      "id": "RH_R5_M101",
+      "manual": "right",
+      "midi_notes": [
+        101
+      ],
+      "label": "F7",
+      "row": 5,
+      "index": 20,
+      "computer_key": null,
+      "button_type": "note"
+    }
+  ],
+  "left_manual": [
+    {
+      "id": "LH_C_BASS",
+      "manual": "left",
+      "midi_notes": [
+        36
+      ],
+      "label": "C",
+      "row": 2,
+      "index": 0,
+      "computer_key": null,
+      "button_type": "bass"
+    },
+    {
+      "id": "LH_C_MAJOR",
+      "manual": "left",
+      "midi_notes": [
+        48,
+        52,
+        55
+      ],
+      "label": "C",
+      "row": 3,
+      "index": 0,
+      "computer_key": null,
+      "button_type": "major_chord"
+    }
+  ]
+}

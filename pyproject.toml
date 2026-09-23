@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bayan-midi-emulator"
+version = "0.1.0"
+description = "Minimal Bayan MIDI emulator"
+authors = [
+    {name = "Developer"},
+]
+dependencies = [
+    "mido",
+    "python-rtmidi",
+    "PySide6",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "pytest-cov",
+    "pytest-qt",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src*"]

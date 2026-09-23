@@ -1,0 +1,52 @@
+{
+  "instrument": "bayan",
+  "layout_name": "Test Bayan Layout",
+
+  "right_manual": [
+    {
+      "id": "RH_C4",
+      "manual": "right",
+      "row": 1,
+      "index": 0,
+      "label": "C4",
+      "midi_notes": [60],
+      "computer_key": "A",
+      "button_type": "note"
+    },
+
+    {
+      "id": "RH_E4",
+      "manual": "right",
+      "row": 2,
+      "index": 0,
+      "label": "E4",
+      "midi_notes": [64],
+      "computer_key": "S",
+      "button_type": "note"
+    }
+  ],
+
+  "left_manual": [
+    {
+      "id": "LH_C_BASS",
+      "manual": "left",
+      "row": 2,
+      "index": 0,
+      "label": "C",
+      "midi_notes": [36],
+      "computer_key": null,
+      "button_type": "bass"
+    },
+
+    {
+      "id": "LH_C_MAJOR",
+      "manual": "left",
+      "row": 3,
+      "index": 0,
+      "label": "C",
+      "midi_notes": [48, 52, 55],
+      "computer_key": null,
+      "button_type": "major_chord"
+    }
+  ]
+}
