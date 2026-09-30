@@ -1,33 +1,55 @@
 # Bayan MIDI Emulator
 
-Minimal implementation of a bayan MIDI emulator for the first stage.
+Графический MIDI-эмулятор баяна для Windows.
 
-## Features
+## Установка и запуск
+
+Нужен Python 3.10 или новее. В PowerShell, открытом в папке проекта,
+выполните:
+
+```powershell
+py -m pip install .
+py -m bayan_emulator
+```
+
+Вторая команда запускает приложение и не зависит от того, добавлена ли папка
+Python Scripts в `PATH`.
+
+После установки также создаётся команда:
+
+```powershell
+bayan-midi-emulator
+```
+
+Если Windows сообщает, что эта команда не найдена, используйте надёжный
+вариант `py -m bayan_emulator` выше. Установка не создаёт ярлык в меню «Пуск».
+
+## Возможности
 
 - Simulates button presses and releases
 - Generates NOTE_ON and NOTE_OFF events
 - Supports polyphony and chord buttons
-- No GUI or MIDI output in this stage
+- Графический интерфейс и вывод MIDI
 - Configuration via JSON files
 
-## MIDI Output
+## MIDI-выход
 
-To use MIDI output functionality, install dependencies:
+Для проверки MIDI-выхода:
 
 ```powershell
-python -m pip install -e .
-python .\tools\midi_smoke_test.py
+py -m pip install -e .
+py .\tools\midi_smoke_test.py
 ```
 
-On Windows, the application requires an existing MIDI Output.
+В Windows приложению нужен уже существующий MIDI-выход:
 
-This can be:
-- a physical MIDI device
-- a virtual MIDI port
+- физическое MIDI-устройство; или
+- виртуальный MIDI-порт.
 
-Do not attempt to create virtual MIDI ports through this application on Windows.
+Само приложение виртуальный MIDI-порт в Windows не создаёт.
 
-## Configuration
+## Конфигурация
 
-Layouts are stored separately in `configs/` directory to allow multiple instrument configurations without modifying code.
-The `bayan_test.json` file is a test configuration, not a complete real layout.
+Дополнительные раскладки хранятся в каталоге `configs/`.
+Файл `bayan_test.json` предназначен только для тестов и не содержит полную
+раскладку инструмента.

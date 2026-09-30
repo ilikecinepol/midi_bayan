@@ -6,6 +6,8 @@ build-backend = "setuptools.build_meta"
 name = "bayan-midi-emulator"
 version = "0.1.0"
 description = "Minimal Bayan MIDI emulator"
+readme = "README.md"
+requires-python = ">=3.10"
 authors = [
     {name = "Developer"},
 ]
@@ -22,6 +24,12 @@ dev = [
     "pytest-qt",
 ]
 
+[project.gui-scripts]
+bayan-midi-emulator = "bayan_emulator.main:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
 [tool.setuptools.packages.find]
-where = ["."]
-include = ["src*"]
+where = ["src"]
+include = ["bayan_emulator*"]
